@@ -1,0 +1,51 @@
+codeforwin programming exercises:
+---------------------------------
+Date: 2022-07-30
+Last updated: 2022-07-30
+
+
+
+
+Basic C programming exercises
+	- incomplete (did them in the past)
+
+Bitwise operator exercises
+	- completed
+	- I want to re-do them to practice more in the future!
+
+Conditional operator exercises
+	- completed
+	- I don't remember completing them though
+
+If else exercices
+	- completed
+
+Switch case exercises
+	- completed
+
+Loop and iteration exercises
+	- 1-37 completed
+
+Star patterns exercises
+	- 1-3 completed
+	- next one is "Rhombus Star Pattern"
+
+Number pattern exercises
+	- incomplete
+
+Functions and recursion exercises
+	-1-6 completed
+
+Array and Matrix exercises
+	- 1-13 completed
+
+String exercises
+	- 1-2 completed
+
+Pointer exercises
+	- 1-7 completed
+
+Files handeling exercises
+	- 1-4 completed
+
+
